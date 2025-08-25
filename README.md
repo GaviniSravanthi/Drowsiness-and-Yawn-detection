@@ -82,9 +82,9 @@ pip install -r requirements.txt
 
 - Add logging system to record drowsiness/yawn events.
 
-- Deploy with a GUI dashboard for user-friendly monitoring.
-  ---
-  ## 📥 Download Pre-trained Model
+- Deploy with a GUI dashboard for user-friendly monitoring
+---
+### 📥 Download Pre-trained Model
 
 Due to file size limits, the `shape_predictor_68_face_landmarks.dat` file is not included in this repository.  
 Please download it manually from the official Dlib website:  
